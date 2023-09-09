@@ -18,4 +18,4 @@ How to use github
 * ###### Heading 6
 
 # Editing on vsc
-This sentence has been written vsc
+This sentence has been written in vsc
